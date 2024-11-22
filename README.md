@@ -26,6 +26,7 @@ Laravel 環境構築
 - MySQL 8.0.26
 
 ## ER 図
+![index](https://github.com/user-attachments/assets/c782a29d-ba0c-4c31-b2af-66bcb72c6bda)
 
 < - - - 作成した ER 図の画像 - - - >
 
