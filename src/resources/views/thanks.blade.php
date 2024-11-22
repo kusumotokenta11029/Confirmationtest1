@@ -17,7 +17,7 @@
                 <h2>お問い合わせありがとうございました</h2>
             </div>
             <div class="thanks__HOME">
-                <a href= >HOME</a>
+                <a href="/" >HOME</a>
             </div>
         </div>
     </main>
